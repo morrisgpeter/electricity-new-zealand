@@ -1,35 +1,11 @@
 # energy-new-zealand
 Understanding New Zealand's Electricity Industry
 
-# Data Sets
-data.govt.nz
+# Generation
 
-https://catalogue.data.govt.nz/dataset?q=generation&sort=score+desc%2C+metadata_modified+desc
+Based on the Annual national electricity generation, total and hydrogeneration, 1974-2013, from Ministry for the Environment (MFE)
 
-## Annual national electricity generation, total and hydrogeneration, 1974-2013
-
-### Information provided about the database
-https://data.mfe.govt.nz/table/52542-annual-national-electricity-generation-total-and-hydrogeneration-1974-2013/
-
-From: Ministry for the Environment
-
-Description:
-  Hydroelectricity is a renewable source of electricity. It makes an important
-  contribution to New Zealand’s energy supply and economy.
-  
-  This dataset relates to the "Contribution of hydroelectricity to total
-  electricity generation" measure on the Environmental Indicators, Te taiao
-  Aotearoa website.
-
-Category: Hydroelectricity generation
-
-### Analysis based on the dataset
-
-The Jupyter notebook with the code in Python is available in the folder
-
-![image](https://user-images.githubusercontent.com/69020265/172037864-ba483909-0258-4b7a-8692-e142af71a6ba.png)
-
-![image](https://user-images.githubusercontent.com/69020265/172037882-2ea21001-ef46-4e27-aadb-7f6565d72f5f.png)
+![image](https://user-images.githubusercontent.com/69020265/172037864-ba483909-0258-4b7a-8692-e142af71a6ba.png) ![image](https://user-images.githubusercontent.com/69020265/172037882-2ea21001-ef46-4e27-aadb-7f6565d72f5f.png)
 
 |   year |     hydro (GWh)|   total (GWh) |   ratio hydro/total |
 |-------:|----------:|------------:|--------------------:|
@@ -73,3 +49,35 @@ The Jupyter notebook with the code in Python is available in the folder
 |   2011 | 24,868.40 |   43,041.80 |                0.58 |
 |   2012 | 22,673.60 |   42,797.50 |                0.53 |
 |   2013 | 22,815.40 |   41,867.30 |                0.54 |
+
+
+# Data Sets
+data.govt.nz
+
+https://catalogue.data.govt.nz/dataset?q=generation&sort=score+desc%2C+metadata_modified+desc
+
+## Annual national electricity generation, total and hydrogeneration, 1974-2013
+
+### Information provided about the database
+https://data.mfe.govt.nz/table/52542-annual-national-electricity-generation-total-and-hydrogeneration-1974-2013/
+
+From: Ministry for the Environment
+
+Description:
+  Hydroelectricity is a renewable source of electricity. It makes an important
+  contribution to New Zealand’s energy supply and economy.
+  
+  This dataset relates to the "Contribution of hydroelectricity to total
+  electricity generation" measure on the Environmental Indicators, Te taiao
+  Aotearoa website.
+
+Category: Hydroelectricity generation
+
+### Analysis based on the dataset
+
+The Jupyter notebook with the code in Python is available in the folder
+
+## Electricity statistics
+From: Ministry of Business, Innovation & Employment
+
+https://www.mbie.govt.nz/assets/Data-Files/Energy/nz-energy-quarterly-and-energy-in-nz/electricity.xlsx
