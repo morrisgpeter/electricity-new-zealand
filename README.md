@@ -1,4 +1,4 @@
-# electricity-new-zealand
+# energy-new-zealand
 Understanding New Zealand's Electricity Industry
 
 # Data Sets
