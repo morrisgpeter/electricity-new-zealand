@@ -2,6 +2,9 @@
 Understanding New Zealand's Electricity Industry
 
 # Data Sets
+data.govt.nz
+
+https://catalogue.data.govt.nz/dataset?q=generation&sort=score+desc%2C+metadata_modified+desc
 
 ## Annual national electricity generation, total and hydrogeneration, 1974-2013
 
