@@ -22,6 +22,8 @@ Category: Hydroelectricity generation
 
 ### Analysis based on the dataset
 
+The Jupyter notebook with the code in Python is available in the folder
+
 ![image](https://user-images.githubusercontent.com/69020265/172037864-ba483909-0258-4b7a-8692-e142af71a6ba.png)
 
 ![image](https://user-images.githubusercontent.com/69020265/172037882-2ea21001-ef46-4e27-aadb-7f6565d72f5f.png)
