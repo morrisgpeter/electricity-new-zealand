@@ -1,0 +1,9 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="annual-national-electricity-generation-total-and-hydrogenera">
+    <SrcDataSource relativeToVRT="1">annual-national-electricity-generation-total-and-hydrogenera.csv</SrcDataSource>
+    <FeatureCount>80</FeatureCount>
+    <Field name="elect_gen" src="elect_gen" type="String" />
+    <Field name="year" src="year" type="String" />
+    <Field name="gw_hours" src="gw_hours" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>
