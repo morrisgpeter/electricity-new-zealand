@@ -5,11 +5,18 @@ Understanding New Zealand's Electricity Industry
 
 According with MBIE
 
-![image](https://user-images.githubusercontent.com/69020265/172142088-baa7f90e-ba22-4755-a785-7d03424b49d9.png) ![image](https://user-images.githubusercontent.com/69020265/172143627-7a6967ff-1928-46a6-ac78-56886e942f75.png)
+![image](https://user-images.githubusercontent.com/69020265/172821657-cf438f54-493f-4e4d-9100-f0934d82be3c.png)
 
-![image](https://user-images.githubusercontent.com/69020265/172142271-8c74842f-fe5f-43f5-9b29-5762c6e1ee8b.png) ![image](https://user-images.githubusercontent.com/69020265/172142325-47d79b42-7b9c-42e6-a94a-fa9a3a9cc4d2.png) 
+![image](https://user-images.githubusercontent.com/69020265/172821942-0465d6f1-6c6c-4050-a75c-74cb53490f31.png)
 
-![image](https://user-images.githubusercontent.com/69020265/172142360-5bedb387-e5f4-4442-a2ad-0d859540cee7.png)
+![image](https://user-images.githubusercontent.com/69020265/172821966-2d3f45c4-2cf6-4e92-a90b-a7759b8de8df.png)
+
+![image](https://user-images.githubusercontent.com/69020265/172821994-c6776ee4-5fcb-4faa-a0fb-319371b5a700.png)
+
+![image](https://user-images.githubusercontent.com/69020265/172822031-5856b7a7-678e-43c3-b3fc-1eb393231f95.png)
+
+![image](https://user-images.githubusercontent.com/69020265/172822061-7a6d7ee0-fbca-4b08-86bf-775022afd1e4.png)
+
 
 Based on the Annual national electricity generation, total and hydrogeneration, 1974-2013, from Ministry for the Environment (MFE)
 
