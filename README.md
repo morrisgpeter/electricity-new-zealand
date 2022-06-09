@@ -143,3 +143,16 @@ The Jupyter notebook with the code in Python is available in the folder
 From: Ministry of Business, Innovation & Employment
 
 https://www.mbie.govt.nz/assets/Data-Files/Energy/nz-energy-quarterly-and-energy-in-nz/electricity.xlsx
+
+## Ember
+
+https://ember-climate.org/
+https://ember-climate.org/app/uploads/2022/03/GER22-Methodology.pdf
+
+## World in Data
+
+https://ourworldindata.org/electricity-mix
+
+## BP
+
+https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
