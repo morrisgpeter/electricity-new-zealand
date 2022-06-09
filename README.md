@@ -156,3 +156,12 @@ https://ourworldindata.org/electricity-mix
 ## BP
 
 https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+
+## United Nations
+
+What is renewable energy?
+https://www.un.org/en/climatechange/what-is-renewable-energy
+
+## IRENA International Renewable Energy Agency
+
+https://www.irena.org
