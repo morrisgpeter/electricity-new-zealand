@@ -21,3 +21,11 @@ coal                                | 6E6E6E
 gas                                 | #AD362D
 
 
+wind  = '#0E5C26'
+solar = '#F5BF22'
+geo   = '#AC59C1'
+hydro = '#5294F6'
+bio   = '#F57D34'
+oil   = '#A17F40'
+coal  = '#6E6E6E'
+gas   = '#AD362D'
