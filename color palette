@@ -11,8 +11,13 @@ bioenergy   | #F2A649 | #F2E205
 
 ## Used
 
-wind        | #0E5C26
-solar       | #F5BF22
-geothermal  | #AC59C1
-hydro       | #5294F6
-bioenergy   | #F57D34
+wind                                | #0E5C26
+solar                               | #F5BF22
+geothermal, waste heat (renewable)  | #AC59C1
+hydro                               | #5294F6
+bioenergy, wood                     | #F57D34
+oil                                 | #A17F40
+coal                                | 6E6E6E
+gas                                 | #AD362D
+
+
