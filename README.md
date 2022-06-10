@@ -17,6 +17,8 @@ According with MBIE
 
 ![image](https://user-images.githubusercontent.com/69020265/172822061-7a6d7ee0-fbca-4b08-86bf-775022afd1e4.png)
 
+![image](https://user-images.githubusercontent.com/69020265/173045881-ab5491f7-b5d3-4a37-ad43-6b85d8544c8f.png)![image](https://user-images.githubusercontent.com/69020265/173045941-664c9425-1666-4ed7-9f93-aaa815016138.png)
+
 
 Based on the Annual national electricity generation, total and hydrogeneration, 1974-2013, from Ministry for the Environment (MFE)
 
