@@ -90,3 +90,11 @@ https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
 ## International Energy Agency
 
 https://www.iea.org
+
+## New Zealand Wind Energy Association (NZWEA)
+
+https://www.windenergy.org.nz/wind-energy/nz-success
+
+## Solar Power
+
+https://en.wikipedia.org/wiki/Solar_power_in_New_Zealand
