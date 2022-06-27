@@ -98,3 +98,7 @@ https://www.windenergy.org.nz/wind-energy/nz-success
 ## Solar Power
 
 https://en.wikipedia.org/wiki/Solar_power_in_New_Zealand
+
+## Others
+
+https://zenodo.org/record/4314878
