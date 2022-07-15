@@ -102,3 +102,7 @@ https://en.wikipedia.org/wiki/Solar_power_in_New_Zealand
 ## Others
 
 https://zenodo.org/record/4314878
+
+## StatsNZ
+
+https://www.stats.govt.nz/indicators/extreme-wind
